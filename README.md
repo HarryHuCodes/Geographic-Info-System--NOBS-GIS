@@ -3,7 +3,7 @@ GIS application written in C++ for ECE297S course at The University of Toronto. 
 
 **Color Themes & Multilingual Support**
 
-
+First Header | Second Header
 ------------ | -------------
 Default | ![image](https://user-images.githubusercontent.com/22436494/119873531-a2587000-bef2-11eb-95cb-96e519a00ce6.png)
 Retro | ![image](https://user-images.githubusercontent.com/22436494/119873544-a4baca00-bef2-11eb-81e8-19fb440974cf.png)
