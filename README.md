@@ -1,6 +1,16 @@
 # ECE297---NoBS-GIS
 GIS application written in C++ for ECE297S course at The University of Toronto. Collaborative project with Mehdi Essoussi and Harry Hu.
 
+## 
+## Point of Interest Search Radius
+![image](https://user-images.githubusercontent.com/22436494/119875102-5f979780-bef4-11eb-852a-1a0aece7388d.png)
+
+## A* Pathfinding Algorithm
+
+User Experience | Algorithm Visualized   
+--------------- | --------------------
+https://user-images.githubusercontent.com/22436494/119875495-cf0d8700-bef4-11eb-81b1-ed0522a22eb1.mp4 | https://user-images.githubusercontent.com/22436494/119875535-dc2a7600-bef4-11eb-85cd-daf68c95b655.mp4
+
 ## Color Themes & Multilingual Support
 
 Theme Name | Image Example  |  Theme Name | Image Example   
