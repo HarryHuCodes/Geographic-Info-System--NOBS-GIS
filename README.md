@@ -1,7 +1,7 @@
 # ECE297---NoBS-GIS
 GIS application written in C++ for ECE297S course at The University of Toronto. Collaborative project with Mehdi Essoussi and Harry Hu.
 
-#Color Themes & Multilingual Support
+# Color Themes & Multilingual Support
 
 Theme Name | Image Example  |  Theme Name | Image Example   
 ------------ | -------------|------------ | -------------
