@@ -1,6 +1,6 @@
 
 # ECE297---NoBS-GIS
-GIS application written in C++ for ECE297S course at The University of Toronto. Collaborative project with Mehdi Essoussi and Harry Hu.
+GIS application written in C++ for ECE297S course at The University of Toronto. Collaborative project with Mehdi Essoussi and Achu Mukundan.
 Code has been made private due to academic regulations at our institution.
 
 ![175141390_284417653335353_6074932320821127110_n](https://user-images.githubusercontent.com/22436494/122429634-ec1bff80-cf60-11eb-915b-4a9a6af26422.png)
